@@ -1,6 +1,6 @@
 # Hey there, I'm Chris.
 
-I've been developing websites since '99, and have been a full-time independent developer since 2020. 
+I've been a full-time independent developer since 2020. 
 
 ## A quick about me:
 
