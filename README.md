@@ -1,6 +1,6 @@
 # Hey there, I'm Chris.
 
-I've been a full-time independent developer since 2020. 
+I've a degree in Software Engineering and I have been a full-time independent React/NextJS developer since 2020. 
 
 ## Here's what I'm up to right now:
 - Job hunting.
