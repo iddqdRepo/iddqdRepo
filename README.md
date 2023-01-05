@@ -11,5 +11,4 @@ I've a degree in Software Engineering and I have been a full-time independent Re
   - Check it out, here www.brighteyesanimalsanctuary.com
 
 ## Here's where you can find me:
-
-(to be updated)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/chris-walker-96070674/)
