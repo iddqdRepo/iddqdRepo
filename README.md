@@ -7,7 +7,7 @@ I've a degree in Software Engineering and I have been a full-time independent Re
 
 ## About my latest project:
 - I designed and developed a full stack nextJS website from scratch for a pet charity to help them modernize and get on the web.
-  - The website has boosted their adoption rate by 60% and their donations by 45%
+  - The website has boosted their adoption rate by 62% and their donations by 35%
   - Check it out, here www.brighteyesanimalsanctuary.com
 
 ## Here's where you can find me:
