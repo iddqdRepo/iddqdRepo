@@ -3,7 +3,7 @@
 I've a degree in Software Engineering and I have been a full-time independent React/NextJS developer since 2021. 
 
 ## Here's what I'm up to right now:
-- Job hunting.
+- Working as a full stack developer
 
 ## About my latest project:
 - I designed and developed a full stack nextJS website from scratch for a pet charity to help them modernize and get on the web.
